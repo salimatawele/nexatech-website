@@ -30,12 +30,12 @@ services company.
 
 ### About
 
-![About](screenshots/About.png)
+![About](screenshots/About.jpeg)
 
 ### Projects
 
-![Projects](screenshots/Projects.png)
+![Projects](screenshots/Projects.jpeg)
 
 ### Contact
 
-![Contact](screenshots/Contact.png)
+![Contact](screenshots/Contact.jpeg)
