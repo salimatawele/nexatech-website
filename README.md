@@ -19,4 +19,24 @@ services company.
 [link]
 
 ## Screenshots
-[images]
+
+### Homepage
+
+![Homepage](screenshots/Home.png)
+
+### Services
+
+![Services](screenshots/Services.png)
+
+### About
+
+![About](screenshots/About.png)
+
+### Projects
+
+![Projects](screenshots/Projects.png)
+
+### Contact
+
+![Contact](screenshots/Contact.png)
+
