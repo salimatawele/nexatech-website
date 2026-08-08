@@ -15,8 +15,8 @@ services company.
 - Contact form validation
 - Smooth scrolling
 
-## Live Demo
-[link]
+## View website
+[link]https://salimatawele.github.io/nexatech-website/
 
 ## Screenshots
 
