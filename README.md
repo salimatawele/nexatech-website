@@ -39,4 +39,3 @@ services company.
 ### Contact
 
 ![Contact](screenshots/Contact.png)
-
